@@ -1,0 +1,58 @@
+/* Your CSS code goes here */
+
+/* Global Style */
+@font-face {
+	font-family: "AlexBrush-Regular";
+	src: url('../fonts/AlexBrush-Regular.ttf');
+}
+@font-face {
+	font-family: "Chunkfive";
+	src: url('../fonts/Chunkfive.otf');
+}
+@font-face {
+	font-family: "KaushanScript-Regular";
+	src: url('../fonts/KaushanScript-Regular.otf');
+}
+@font-face {
+	font-family: "FontAwesome";
+	src: url('../fonts/FontAwesome.otf');
+}
+@font-face {
+	font-family: "glyphicons-halfings-regular";
+	src: url('..fonts/glyphicons-halfings-regular.ttf');
+
+}
+
+/* Typography */
+h1 {
+	font-family: "AlexBrush-Regular";
+	font-size: 42px;
+}
+h2 {
+	font-family: "AlexBrush-Regular";
+	font-size: 40px;
+	text-transform: uppercase;
+}
+h3 {
+	font-family: "AlexBrush-Regular";
+	font-size: 30px;
+	text-transform: uppercase;
+}
+h4 {
+	font-family: "Chunkfive";
+	font-size: 35px;
+}
+h5 {
+	font-family: "KaushanScript-Regular";
+	font-size: 45px;
+}
+h6 {
+	font-family: "KaushanScript-Regular";
+	font-size: 40px;
+}
+p {
+	font-family: "glyphicons-halfings-regular";
+	font-size: 42px;
+}
+
+/* Sections */
